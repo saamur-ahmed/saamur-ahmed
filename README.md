@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Java and Full Stack Development**
+- 🌱 I’m currently preparing to start my **Robotics Engineer Internship in EU**
 
 - 📫 How to reach me **saamur.ahmed@mail.utoronto.ca**
 
