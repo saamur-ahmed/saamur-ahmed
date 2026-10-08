@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saamur Ahmed</h1>
-<h3 align="center">A passionate Computer Science Student @ University of Toronto</h3>
+<h3 align="center">Computer Science Student @ University of Toronto</h3>
 
 
 
