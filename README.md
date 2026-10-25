@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently a **Robotics Engineer Intern in EU**
+- 🌱 I’m currently working as a **Robotics Engineer Intern**
 
 - 📫 How to reach me **saamur.ahmed@mail.utoronto.ca**
 
